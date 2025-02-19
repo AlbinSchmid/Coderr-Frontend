@@ -1,10 +1,10 @@
-#Projektname
+# Projektname
 
-##Demo
+## Demo
 
 Falls verfügbar, füge hier einen Link zu einer Live-Demo oder Screenshots ein.
 
-#Installation
+# Installation
 
 Repository klonen:
 
@@ -12,11 +12,11 @@ git clone https://github.com/dein-benutzername/dein-repo.git
 
 Öffne das Projekt im Browser oder mit einem lokalen Server.
 
-#Verwendung
+# Verwendung
 
 Beschreibe hier, wie das Projekt genutzt wird. Füge ggf. Beispiele oder Anleitungen hinzu.
 
-#Technologien
+# Technologien
 
 Dieses Projekt wurde mit folgenden Technologien entwickelt:
 
@@ -26,7 +26,7 @@ CSS – Styling
 
 JavaScript – Funktionalität
 
-#Mitwirken
+# Mitwirken
 
 Beiträge sind willkommen! Folge diesen Schritten, um mitzumachen:
 
